@@ -9,11 +9,11 @@ pesoTotal = 0
 
 if pesoDiferente == "D":
     for i in range(25):
-        peso = float(input("digite o peso."))
+        peso = float(input("digite o peso: "))
         pesoTotal += float(peso)
     print(pesoTotal)
 else:
-    peso = float(input("digite o peso."))
+    peso = float(input("digite o peso: "))
     pesoTotal = 25 * float(peso)
     print(pesoTotal)
 
