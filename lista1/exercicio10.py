@@ -9,7 +9,6 @@ Obs: O final da leitura de dados é marcado pela resposta ‘F’.
 sim = 0
 nao = 0
 resposta = ""
-porcentagem = 0
 totalDeRespostas = 0
 
 while resposta != "F":
