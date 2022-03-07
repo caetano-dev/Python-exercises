@@ -10,4 +10,4 @@ if firstNumber > 0 and secondNumber > 0 and thirdNumber > 0:
     if firstNumber + secondNumber > thirdNumber and firstNumber + thirdNumber > secondNumber and secondNumber + thirdNumber > firstNumber:
         print('É possível formar um polígono com os números informados.')
     else:
-        print('Não é possível formar um polígono com os números informados.')   
+        print('Não é possível formar um polígono com os números informados.')
