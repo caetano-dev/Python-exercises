@@ -10,3 +10,4 @@ for n in range(0, 50):
     sumOfNumbers += number
     number += 2
 print(f'A soma dos números pares é: {sumOfNumbers}')
+
