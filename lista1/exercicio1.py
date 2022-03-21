@@ -52,4 +52,3 @@ while idade > 0:
         elif sexo == "F":
             mulheres += 1
             mediaSalarioMulher += salario
-
